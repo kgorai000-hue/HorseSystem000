@@ -1,0 +1,10 @@
+HorseSystem000/
+├── README.md
+├── src/
+│   ├── odds_loader.py
+│   ├── probability_model.py
+│   ├── trifecta_fair_odds.py
+│   ├── max_odds_selector.py
+│   └── main.py
+└── data/
+    └── sample_odds.csv
